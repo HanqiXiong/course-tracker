@@ -5,8 +5,7 @@ COURSE_TO_DETECT = [
     'BIOENG100',
     'GOLF1',
     'GOLF2',
-    'GOLF3',
-    'DATA102'
+    'GOLF3'
 ]
 
 def check_course_availability(course_name):
